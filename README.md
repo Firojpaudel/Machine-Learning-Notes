@@ -8,10 +8,22 @@ Last_Updated: 2024-01-26
 > **Repo details:** *Daily update of my learnings* 
 
 ## Day_1: 
-### Installations:
-- Installing Anaconda Distribution:
+Starting to learn **The Hundred Page Machine Learning Book** _By Andry Burkov_ 
 
-  Visit [Anaconda's official website](https://www.anaconda.com/download) to download for Free.
+> Summary note of what I read today: 
+
+### 1. **What is ML?**
+Process of solving practical problem by: 
+  - Gathering dataset
+  - And algorithmically bulding a statistical model based in dataset.
+
+### Types of Learning: 
+   1. Supervised Learning
+   2. Unsupervised learning
+   3. Semi- supervised Learning 
+   4. Reinforcement Learning 
+
+  
 
 
 

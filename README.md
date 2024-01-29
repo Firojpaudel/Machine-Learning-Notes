@@ -1,4 +1,4 @@
-## What this Repo contains?
+## What this Repo contains:
 - Summary notes of what I learnt while reading books.
 
 ## Why this repo?

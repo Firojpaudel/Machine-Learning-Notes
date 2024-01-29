@@ -29,7 +29,7 @@ Process of solving practical problem by:
 
      #### Feature Vector: 
      A vector in which each dimension j = 1,2, ...,D contains the element somehow.
-     > Meaning: If x of one dimension say "d" has data related to a particular category then for iterations N, the datas are related to same category. 
+     > Meaning: If x of one dimension say "d" has data related to a particular category then for iterations N, the datas are related to same category.  
    - y -> label :: can be element belonging to finite set _**classes, real number, or complex structures like matrices, vector, tree or graph.**_
 
    - ##### Goal : 
@@ -40,3 +40,19 @@ Process of solving practical problem by:
               _Algo learns from these labelled examples_ to generalize patterns and relationships and make _predictions of unseen data._
 
   ### Unsupervised Learning: 
+   - Here, dataset is collection of unbiased examples {x}. Where, x -> feature vector
+
+   - ##### Goal :
+   To create a model that takes feature vector as input and **transform** it **into the value** that can be used to solve the problem. 
+
+  > **Note**: Unlike supervised learning, there are _no correct answers or labelled outputs_ to guide the learning proccess
+  Instead, the _algo explores the data to discover similarities, differences, outliers_ and so on. It gives overall idea about the data 
+
+  **Examples** of unsupervised learning: **Clustering** and **Dimensionality Reduction**
+
+  > **Clustering**: _Grouping similar datsets together bases on their characteristics._
+
+  > **Dimensionality Reduction**: Reducing the number of features/ variables in the dataset. 
+  **Reason**-> High Dimensional data are **computationally expensive** and may suffer from _'noise'_.
+
+  

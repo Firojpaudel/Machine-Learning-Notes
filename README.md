@@ -1,7 +1,7 @@
 <!--
 title: Machine Learning & Data Science (XDays)
 author: Firoj Paudel
-Last_Updated: 2024-01-26
+Last_Updated: 2024-01-29
 -->
 
 # Machine Learning & Data Science:
@@ -67,6 +67,18 @@ Process of solving practical problem by:
   **But**: adding unlabelled examples also mean you add _more info about the problem_ and _Algo could leverage the additional info_. 
 
   ### Reinforcement Learning:
-  - 
+  > Note: Below, "agent" refers to the algo itself (_not person_).
+
+  - Type of Machine Learning where an "agent" learns to make decisions interacting with the environment. The "agent" receives feedback in form of _rewards or penalties_ based on actions. 
+
+  > Similar to learning by doing.
+
+  ##### Goal:
+  To learn **"Policy"** that maximizes cumulative rewards over time.
+
+  > **Policy**: a function that _takes feature vector as input_ and _outputs an optimal action_ to execute that state.
+  >> **So what makes the action optimal?** If the action maximizes the expected average reward. 
+
+
 
 

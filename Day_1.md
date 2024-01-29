@@ -5,7 +5,6 @@ Last_Updated: 2024-01-29
 -->
 
 # Machine Learning & Data Science:
-> **Repo details:** *Daily update of my learnings* 
 
 ## Day_1: 
 Starting to learn **The Hundred Page Machine Learning Book** _By Andry Burkov_ 

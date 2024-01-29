@@ -36,7 +36,7 @@ Process of solving practical problem by:
    To produce a **model** that takes a featured vector x as a input and outputs info that allows deducing the label for this feature vector. 
   
 
+  > **Note**: In Supervised Learning, algo is trained on the dataset that is already "labelled" with correct answers. 
+              _Algo learns from these labelled examples_ to generalize patterns and relationships and make _predictions of unseen data._
+
   ### Unsupervised Learning: 
-  
-
-

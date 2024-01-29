@@ -23,7 +23,20 @@ Process of solving practical problem by:
    3. Semi- supervised Learning 
    4. Reinforcement Learning 
 
+   ### Supervised Learning:
+   - In Supervised Learning, _dataset is collection of labeled examples {x,y}._
+     - where, x -> feature vector and y -> label
+
+     #### Feature Vector: 
+     A vector in which each dimension j = 1,2, ...,D contains the element somehow.
+     > Meaning: If x of one dimension say "d" has data related to a particular category then for iterations N, the datas are related to same category. 
+   - y -> label :: can be element belonging to finite set _**classes, real number, or complex structures like matrices, vector, tree or graph.**_
+
+   - ##### Goal : 
+   To produce a **model** that takes a featured vector x as a input and outputs info that allows deducing the label for this feature vector. 
   
 
+  ### Unsupervised Learning: 
+  
 
 

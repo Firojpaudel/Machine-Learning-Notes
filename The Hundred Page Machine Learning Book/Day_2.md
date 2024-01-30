@@ -13,6 +13,16 @@ FlowChart Version:
   Now at this point we have dataset and algo, so we are ready to apply algo to the dataset to get model. 
 
 
-  > **Note:** On Further reading, author uses SVM(Support Vector Machine) algorithm to represent Supervised Learning where <u>+1 : Spam and -1: Not_Spam<u>
+  > **Note:** On Further reading, author uses SVM(Support Vector Machine) algorithm to represent Supervised Learning where <u>+1 : Spam and -1: Not_Spam</u>
 
+### Supervised Vector Machine Algo (SVM):
+In SVM, every feature vector is a point in <u>_high dimensional space_</u>.
+
+- The Algo puts all feature vectors in the dimensional plot and draws an <u>_imaginary hyperplane_</u> that seperates examples with +ve and -ve labels. 
+ - In ML, this boundary which separates different classes is called **decision boundary**. 
+
+<p style="text-align: center;">Equation of hyperplane:</p>
+<p align="center">
+  <img src="https://latex.codecogs.com/svg.image?&space;wx-b=0{\color{DarkGreen}}" alt="wx-b=0">
+</p>
 

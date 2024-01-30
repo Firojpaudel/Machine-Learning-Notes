@@ -4,7 +4,7 @@
 Pictorial Version:
 > Use darkmode for viewing comments inside flowchart.
 
-![SuperVised Learning Algo](https://i.postimg.cc/gjhg3XQf/Colorful-Success-Circle-Steps-Diagram.png)  
+![SuperVised Learning Algo](https://i.postimg.cc/3JZnHv5x/Colorful-Success-Circle-Steps-Diagram.png)  
 
 #### Example Case:
 **Problem**: Spam Detection.<br>

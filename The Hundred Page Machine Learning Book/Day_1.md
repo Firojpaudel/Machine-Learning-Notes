@@ -4,14 +4,14 @@ author: Firoj Paudel
 Last_Updated: 2024-01-29
 -->
 
-# Machine Learning & Data Science:
+# ML_Notes:
 
 ## Day_1: 
 Starting to learn **The Hundred Page Machine Learning Book** _By Andry Burkov_ 
 
 > Summary note of what I read today: 
 
-### 1. **What is ML?**
+### **What is ML?**
 Process of solving practical problem by: 
   - Gathering dataset
   - And algorithmically bulding a statistical model based in dataset.

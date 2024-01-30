@@ -2,7 +2,7 @@
 
 ### How Supervised Learning Works:
 Pictorial Version:
-> Use darkmode for viewing comments inside flowchart.
+
 
 ![SuperVised Learning Algo](https://i.postimg.cc/3JZnHv5x/Colorful-Success-Circle-Steps-Diagram.png)  
 

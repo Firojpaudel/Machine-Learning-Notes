@@ -1,10 +1,10 @@
 ## Day_2: 
 
 ### How Supervised Learning Works:
-FlowChart Version:
+Pictorial Version:
 > Use darkmode for viewing comments inside flowchart.
 
-![SuperVised Learning Algo](https://i.postimg.cc/KjGzyFT6/Supervised-Learning-drawio-1.png)  
+![SuperVised Learning Algo](https://i.postimg.cc/gjhg3XQf/Colorful-Success-Circle-Steps-Diagram.png)  
 
 #### Example Case:
 **Problem**: Spam Detection.<br>
@@ -21,8 +21,36 @@ In SVM, every feature vector is a point in <u>_high dimensional space_</u>.
 - The Algo puts all feature vectors in the dimensional plot and draws an <u>_imaginary hyperplane_</u> that seperates examples with +ve and -ve labels. 
  - In ML, this boundary which separates different classes is called **decision boundary**. 
 
-<p style="text-align: center;">Equation of hyperplane:</p>
+<p style="text-align: center; "><b>Equation of hyperplane:</b></p>
 <p align="center">
-  <img src="https://latex.codecogs.com/svg.image?&space;wx-b=0{\color{DarkGreen}}" alt="wx-b=0">
+  <img src="https://latex.codecogs.com/svg.image?{\color{Gray}wx-b=0}" alt="wx-b=0">
 </p>
+
+where, `w` -> real-valued vector whose dimensionality is same as input feature vector `x`
+
+Then, the predicted label for some input feature vector `x` is given as:
+ <p align="center">
+  <img src="https://latex.codecogs.com/svg.image?{\color{Gray}y=sign(wx-b)}" alt="sign(wx-b)=y">
+</p>
+
+> sign: mathematical operator for deciding the values +1/ -1 
+
+#### Goal: 
+To leverage the dataset and find optial values `w*` and `b*` for parameters `w` and `b`. Once the algo identifies them, model `f(x)` is defined as: 
+ <p align="center">
+  <img src="https://latex.codecogs.com/svg.image?{\color{Gray}f(x)=sign(w^*x-b^*)}" alt="sign(w*x-b*)=f(x)">
+</p>
+
+
+So, back to previous example: In order to detect a mail as spam or not, following steps take place:
+- Converting message to feature vector `x`. 
+- Multiply it with `w*` and subtract `b*` from it. 
+  - Output: +1 =`spam`; -1 =`non_spam`
+
+> **How does the machine find `w*` and `b*`? <br>**
+_Machine solves optimization problem._
+
+> **_Note_:**<br>
+Width of angled hyperplane >>>  Width of linear hyperplane. So, angled hyperplane is used.<br>
+This concept is also called as **Maximal Margin Hyperplane** and provides the maximal accurate prediction. 
 

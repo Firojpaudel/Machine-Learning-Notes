@@ -22,7 +22,7 @@ In SVM, every feature vector is a point in <u>_high dimensional space_</u>.
 
 - The Algo puts all feature vectors in the dimensional plot and draws an <u>_imaginary hyperplane_</u> that seperates examples with +ve and -ve labels.<br>
 <p align="center">
-  <img src="https://i.postimg.cc/fLV9Kk7v/Colorful-Success-Circle-Steps-Diagram-1.png" alt="wx-b=0">
+  <img src="https://i.postimg.cc/fLV9Kk7v/Colorful-Success-Circle-Steps-Diagram-1.png" alt="wx-b=0"  width="350">
 </p>
 
 > Src: Book

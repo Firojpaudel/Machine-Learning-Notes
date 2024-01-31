@@ -8,12 +8,14 @@ Pictorial Version:
 
 #### Example Case:
 **Problem**: Spam Detection.<br>
-  *Let's assume we have gathered emails (say 10,000), each with label: **"Spam" and "Not_Spam"***. Now, we have to convert each message into feature vector. Converting messages into feature vector solely depends on Analyst experience.<br>
-  Now we have machine-readable input data, but the output's still human-readable. Some learnig algos require transforming labels into numbers. For example: in above case, labels could be <u>**0 : for Not_Spam**</u> and <u>**1: for Spam mails**</u>.<br>
-  Now at this point we have dataset and algo, so we are ready to apply algo to the dataset to get model. 
+  *Let's assume we have gathered emails (say 10,000), each with label: **"Spam" and "Not_Spam"***. Now, we have to convert each message into feature vector. <br> 
+  > _Converting messages into feature vector solely depends on Analyst experience.<br>_
+  
+  With machine-readable input data now in place, we encounter the need to convert the output, which is currently in human-readable form, into a format suitable for machine learning algorithms. Some algorithms require labels to be represented as numerical values. For instance, in the given case, we might assign the labels **"<u>Not_Spam</u>" and "<u>Spam</u>" the numerical values <u>0</u> and <u>1</u>, respectively**.
 
+  At this stage, we have a prepared dataset and a chosen algorithm, marking our readiness to apply the algorithm to the dataset to train the model. 
 
-  > **Note:** On Further reading, author uses SVM(Support Vector Machine) algorithm to represent Supervised Learning where <u>+1 : Spam and -1: Not_Spam</u>
+  > **Note:** On Further reading, author uses SVM(Support Vector Machine) algorithm to represent Supervised Learning where <u>+1 : Spam</u> and <u>-1: Not_Spam</u>
 
 ### Supervised Vector Machine Algo (SVM):
 In SVM, every feature vector is a point in <u>_high dimensional space_</u>.
@@ -44,8 +46,8 @@ To leverage the dataset and find optial values `w*` and `b*` for parameters `w` 
 
 So, back to previous example: In order to detect a mail as spam or not, following steps take place:
 - Converting message to feature vector `x`. 
-- Multiply it with `w*` and subtract `b*` from it. 
-  - Output: +1 =`spam`; -1 =`non_spam`
+- Multiplying it with `w*` and subtracting `b*` from it. 
+  - Output: +1 =`spam`; -1 =`not_spam`
 
 > **How does the machine find `w*` and `b*`? <br>**
 _Machine solves optimization problem._

@@ -20,7 +20,13 @@ Pictorial Version:
 ### Supervised Vector Machine Algo (SVM):
 In SVM, every feature vector is a point in <u>_high dimensional space_</u>.
 
-- The Algo puts all feature vectors in the dimensional plot and draws an <u>_imaginary hyperplane_</u> that seperates examples with +ve and -ve labels. 
+- The Algo puts all feature vectors in the dimensional plot and draws an <u>_imaginary hyperplane_</u> that seperates examples with +ve and -ve labels.<br>
+<p align="center">
+  <img src="https://i.postimg.cc/fLV9Kk7v/Colorful-Success-Circle-Steps-Diagram-1.png" alt="wx-b=0">
+</p>
+
+> Src: Book
+
  - In ML, this boundary which separates different classes is called **decision boundary**. 
 
 <p style="text-align: center; "><b>Equation of hyperplane:</b></p>

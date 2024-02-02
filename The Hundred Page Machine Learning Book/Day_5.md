@@ -44,7 +44,7 @@ If  ![](https://www.sciweavers.org/upload/Tex2Img_1706896931/eqn.png) and ![](ht
 > **Global Minimum:**<br> _Minimal value_ among all local minimas.
 
 <p align="center">
-  <img src="https://i.postimg.cc/Z5h2CLXK/Colorful-Success-Circle-Steps-Diagram.png" alt="??"><br>
+  <img src="https://i.postimg.cc/Z5h2CLXK/Colorful-Success-Circle-Steps-Diagram.png" alt="??" width= "450px"><br>
 </p>
 
 > Src: Book

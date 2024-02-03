@@ -44,3 +44,4 @@ A variable can have two or more indices like ![](https://latex.codecogs.com/svg.
 </p>
 
 > ![](https://latex.codecogs.com/svg.image?{\color{Gray}\overset{\underset{\mathrm{def}}{}}{=}}) refers to **"is defined as"**
+

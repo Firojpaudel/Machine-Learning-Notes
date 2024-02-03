@@ -74,6 +74,9 @@ Similar to that of discrete:<br>
 </p>
 
 > where, ![](https://latex.codecogs.com/svg.latex?%7B%5Ccolor%7BGray%7Df%28x%29dx%7D) is Pdf.
+<p align="center">
+  <img src="https://i.postimg.cc/brY2SS49/Colorful-Success-Circle-Steps-Diagram.png" alt="??" width= "450px"><br>
+</p>
 
 #### Standard Deviation of Random Variables:
 > Denoted by ![](https://latex.codecogs.com/svg.latex?%7B%5Ccolor%7BGray%7D%5Csigma%7D).

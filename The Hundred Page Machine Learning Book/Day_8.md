@@ -25,7 +25,7 @@ ie.,
 
 > PS: The term ![](https://latex.codecogs.com/svg.latex?%7B%5Ccolor%7BGray%7DP%28X%20%3D%20x%20%7C%20%5Ctheta%20%3D%20%5Chat%7B%5Ctheta%7D%20%29%20%7D) in Bayes' Rule is known as likelihood of a function. 
 
-### Baics of Parameter Estimation:
+### Basics of Parameter Estimation:
 * Maximum Likelihood Estimation (MLE)
 * Maximum Posteriori Estimation (MAP)
 * Bayesian Formulation

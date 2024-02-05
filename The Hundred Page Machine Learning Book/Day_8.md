@@ -4,6 +4,7 @@
 <p align="center">
   <img src="https://i.postimg.cc/1361DPWm/Colorful-Success-Circle-Steps-Diagram-1.png" alt="??" width="200px"><br>
 </p><br>
+
 It estimates the parameter of a given function values that best define the distribution (![](https://latex.codecogs.com/svg.latex?%7B%5Ccolor%7BGray%7DX%7D)).
 
 The Gaussian function _(aka. Normal distribution)_ could be a good example.

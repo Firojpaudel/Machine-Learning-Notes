@@ -69,3 +69,30 @@ where ![](https://latex.codecogs.com/svg.latex?%7B%5Ccolor%7BGray%7DLL%28%5Cthet
 
 > The arguement that maximizes the value of **MLE**: ![](https://latex.codecogs.com/svg.latex?%7B%5Ccolor%7BGray%7D%5Ctheta%5E*%20%3D%20%5Cbegin%7Bmatrix%7D%20arg%20max%20%5C%5C%20%5Ctheta%20%5C%5C%20%5Cend%7Bmatrix%7D%20%5Cprod_%7Bi%3D1%7D%5E%7BN%7D%20%28%5Ctheta%20%3D%20%5Chat%7B%5Ctheta%7D%20%7C%20X%20%3D%20x_%7Bi%7D%29%20%7D)
 
+
+
+### Parameters vs Hyperparameters:
+#### Parameters:
+* Internal variables that model learns from training data.
+* Are directly modified by learning algo. based on training data.
+
+#### Hyperparameters:
+* A property of learning algo, usually (not always) having a numerical value.
+* That value influences the way the algorithm works.
+* External config. settings that are not learnt from the data but are set before the training process begins.
+
+
+### Classification vs Regression:
+The problem of automatically assigning label to unlabelled examples is classification.<br>
+Output of classification model is discrete label/category.<br>
+Regression on other hand, aims to predict a continuous numerical value.
+
+### Model_Based vs Instance_Based Learning:
+Most supervised learning algos are model based learning.<br>
+Model based learning algos use the training data to create a model that has parameters learnt from training data.
+<br><br>
+Instance based learning algos use the whole dataset as model.
+> Instance based algo frequentlyused in practice is KNN algo (k-Nearest Neighbours).
+
+Instead of learning a general model, the system memorizes the training instance and uses them directly to make predictions for new instances.
+

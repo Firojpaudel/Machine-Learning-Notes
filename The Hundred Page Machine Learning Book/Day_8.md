@@ -92,7 +92,7 @@ Most supervised learning algos are model based learning.<br>
 Model based learning algos use the training data to create a model that has parameters learnt from training data.
 <br><br>
 Instance based learning algos use the whole dataset as model.
-> Instance based algo frequentlyused in practice is KNN algo (k-Nearest Neighbours).
+> Instance based algo frequently used in practice is KNN algo (k-Nearest Neighbours).
 
 Instead of learning a general model, the system memorizes the training instance and uses them directly to make predictions for new instances.
 

@@ -8,5 +8,5 @@
 ### Practical Deep Learning For Coders Progress:
 | Chapters     | Status |
 |---------------|--------|
-| [Chapter 1](/Practical%20Deep%20Learning%20For%20Coders/Chapter1.ipynb) | * [x] |
+| [Chapter 1](/Practical%20Deep%20Learning%20For%20Coders/Chapter1.ipynb) | - [x] |
 

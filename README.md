@@ -9,5 +9,6 @@
 | Chapters     | Status |
 |---------------|--------|
 | [Chapter 1](/Practical%20Deep%20Learning%20For%20Coders/Chapter1.ipynb) | ✅ |
+| [Chapter 2](/Practical%20Deep%20Learning%20For%20Coders/Chapter_2.ipynb)| ✅ |
 
 

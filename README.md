@@ -8,7 +8,8 @@
 ### Practical Deep Learning For Coders Progress:
 | Chapters     | Status |
 |---------------|--------|
-| [Chapter 1](/Practical%20Deep%20Learning%20For%20Coders/Chapter1.ipynb) | ✅ |
-| [Chapter 2](/Practical%20Deep%20Learning%20For%20Coders/Chapter_2.ipynb)| ✅ |
+| [Introduction](/Practical%20Deep%20Learning%20For%20Coders/Chapter1.ipynb) | ✅ |
+| [Model Production and Deployment](/Practical%20Deep%20Learning%20For%20Coders/Chapter_2.ipynb)| ✅ |
+| [Training a Classifier](/Practical%20Deep%20Learning%20For%20Coders/Chapter_4.ipynb)| 🏊‍♂️ |
 
 

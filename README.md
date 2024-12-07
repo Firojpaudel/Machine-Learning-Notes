@@ -15,4 +15,5 @@
 | [MultiLabel Classification and Regression](/Practical%20Deep%20Learning%20For%20Coders/Chapter_6.ipynb) | ✅ |
 |   - [Multilabel Classification](Practical%20Deep%20Learning%20For%20Coders/Chapter_6.ipynb) | ✅ |
 |   - [Regression](Practical%20Deep%20Learning%20For%20Coders/Chapter_6.ipynb) | ✅ |
+| [Training State Of The Art Models](Practical%20Deep%20Learning%20For%20Coders/Chapter_7.ipynb) | 🏊‍♂️ |
 

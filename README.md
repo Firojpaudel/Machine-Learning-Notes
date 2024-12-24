@@ -19,3 +19,10 @@
 | [Collaborative Filtering](Practical%20Deep%20Learning%20For%20Coders/Chapter_8.ipynb) | ✅ |
 | [Tabular Modeling Deep Dive](Practical%20Deep%20Learning%20For%20Coders/Chapter_9.ipynb) | ✅ |
 
+___
+
+<p align="center">
+  <img src="https://i.postimg.cc/GmTqz2bg/Underconstruction-v2-4.gif" alt="Gif_image_representing_work_under_construction" width="400"/>
+</p>
+
+---
